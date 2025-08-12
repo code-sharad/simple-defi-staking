@@ -39,6 +39,6 @@ Planned enhancements:
 
 ## 5. Contract Address
 
-Example (replace with your deployed address):
+ST1C5GR3FG54C50WAJXNNKCN6AF76H9N118K1D355.simple-defi-staking
 <img width="1531" height="716" alt="image" src="https://github.com/user-attachments/assets/fea80998-f82c-429f-b79d-f01fbe10a348" />
 
