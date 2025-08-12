@@ -40,3 +40,5 @@ Planned enhancements:
 ## 5. Contract Address
 
 Example (replace with your deployed address):
+<img width="1531" height="716" alt="image" src="https://github.com/user-attachments/assets/fea80998-f82c-429f-b79d-f01fbe10a348" />
+
