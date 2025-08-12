@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: simple-defi-staking
+            expected-sender: ST1C5GR3FG54C50WAJXNNKCN6AF76H9N118K1D355
+            cost: 13130
+            path: contracts/simple-defi-staking.clar
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
